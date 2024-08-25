@@ -1,4 +1,4 @@
-                                              #AUTHOR : AQSA TARIQ
+                                                          #AUTHOR : AQSA TARIQ
 TITLE: "Image Gallery with CSS Flexbox and Hover Effects"
 This project showcases an image gallery created using CSS flexbox, smooth transitions, and hover effects. 
 The gallery is fully responsive and designed to provide an interactive and visually appealing experience. The code is simple and easy to follow, making it a great resource 
